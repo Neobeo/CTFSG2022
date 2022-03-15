@@ -3,8 +3,8 @@
 I thoroughly enjoyed the competition this year, not least because my team (Social Engineering Experts 2) won it. Special thanks to all the organisers.
 
 Here are the challenges I intend to write up on:
-- SHA CBC (Crypto / 1 solve)
-- Textbook RSA (Crypto / 2 solves)
+- [SHA CBC](SHA-CBC.ipynb) (Crypto / 1 solve)
+- [Textbook RSA](TextbookRSA.ipynb) (Crypto / 2 solves)
 - [ThreePass](ThreePass.ipynb) (Misc / 3 solves)
 - [WhichLee V2](WhichLeeV2.ipynb) (Misc / 1 solve)
 
